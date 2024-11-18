@@ -1,0 +1,12 @@
+Installation:
+    i) pip install flask openai python-dotenv
+    ii) python -m venv venv
+    iii) venv\Scripts\activate
+    iv) 
+
+Libraries and Packges:
+    i) flask 
+    ii) openai 
+    iii) python-dotenv
+    iv) request 
+    v) jsonify 
